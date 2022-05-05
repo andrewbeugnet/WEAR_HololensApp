@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 269a49ed9a3303f4d839c7ffd1cb789d
+=======
+<<<<<<< HEAD:Assets/Dependencies/netstandard2.0.meta
+guid: 4d655f99a3c90aa458631f845eebc63f
+=======
+guid: 269a49ed9a3303f4d839c7ffd1cb789d
+>>>>>>> remotes/origin/master:Assets/Plugins.meta
+>>>>>>> remotes/origin/master
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
